@@ -1,0 +1,14 @@
+uploads/
+outputs/
+__pycache__/
+.venv/
+venv/
+*.pyc
+.DS_Store
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
