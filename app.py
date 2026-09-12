@@ -44,5 +44,6 @@ def detect():
     return send_file(out_path, as_attachment=True, download_name=out_path.name)
 
 
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5900)
