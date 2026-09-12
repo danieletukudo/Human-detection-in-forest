@@ -1,5 +1,6 @@
 uploads/
 outputs/
+output/
 __pycache__/
 .venv/
 venv/
@@ -7,6 +8,7 @@ venv/
 .DS_Store
 *.pt
 *.pth
+*.onnx
 *.mp4
 *.avi
 *.mov
